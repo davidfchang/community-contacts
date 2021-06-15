@@ -49,6 +49,7 @@ handle below are twitter profiles
 
 ## Ecuador
 @latiencia
+@davidfchang
 
 ## Lebanon
 @dyermaker
